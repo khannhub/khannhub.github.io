@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.khann.id.vn/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://www.khann.id.vn/</loc>
+</url>
+<url>
+<loc>https://www.khann.id.vn/this-is-a-sample-post/</loc>
+<lastmod>2024-11-03T01:29:01+07:00</lastmod>
+</url>
+<url>
+<loc>https://www.khann.id.vn/who-am-i/</loc>
+<lastmod>2024-11-03T04:30:41+07:00</lastmod>
+</url>
+</urlset>

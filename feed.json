@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Kha Nguyen&#x27;s Space",
+    "description": "",
+    "home_page_url": "https://www.khann.id.vn",
+    "feed_url": "https://www.khann.id.vn/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kha Nguyen"
+    },
+    "items": [
+        {
+            "id": "https://www.khann.id.vn/this-is-a-sample-post/",
+            "url": "https://www.khann.id.vn/this-is-a-sample-post/",
+            "title": "This is a sample post",
+            "summary": "This is a sample post",
+            "content_html": "<p>This is a sample post</p>",
+            "author": {
+                "name": "Kha Nguyen"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-03T01:29:01+07:00",
+            "date_modified": "2024-11-03T01:29:01+07:00"
+        }
+    ]
+}

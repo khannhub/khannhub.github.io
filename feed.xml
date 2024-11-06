@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Kha Nguyen&#x27;s Space</title>
+    <link href="https://www.khann.id.vn/feed.xml" rel="self" />
+    <link href="https://www.khann.id.vn" />
+    <updated>2024-11-03T01:29:01+07:00</updated>
+    <author>
+        <name>Kha Nguyen</name>
+    </author>
+    <id>https://www.khann.id.vn</id>
+
+    <entry>
+        <title>This is a sample post</title>
+        <author>
+            <name>Kha Nguyen</name>
+        </author>
+        <link href="https://www.khann.id.vn/this-is-a-sample-post/"/>
+        <id>https://www.khann.id.vn/this-is-a-sample-post/</id>
+
+        <updated>2024-11-03T01:29:01+07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a sample post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a sample post</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
